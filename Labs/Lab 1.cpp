@@ -13,7 +13,7 @@ int main() {
     int number = 0;
     int amountOfPrimes = 0;
     bool isPrime = true;
-    for(number = 1; number < 1000000; number++) {
+    for(number = 1;; number++) {
         isPrime = true;
         for(i = number-1; i > 1; i--) {
             if(!((number % i) > 0)) {

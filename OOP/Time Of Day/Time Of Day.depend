@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528923756 source:c:\users\raphael restrepo\desktop\computerprogramming1\oop\time of day\main.cpp
+	<iostream>
+	"TimeOfDay.h"
+
+1528923417 c:\users\raphael restrepo\desktop\computerprogramming1\oop\time of day\timeofday.cpp
+	<iostream>
+	"TimeOfDay.h"
+
+1528923308 c:\users\raphael restrepo\desktop\computerprogramming1\oop\time of day\timeofday.h
+
+1528923417 source:c:\users\raphael restrepo\desktop\computerprogramming1\oop\time of day\timeofday.cpp
+	<iostream>
+	"TimeOfDay.h"
+
